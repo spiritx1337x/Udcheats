@@ -25,8 +25,8 @@
             "targetedfortpawn" : "0x1930",
             "habanerocomponent" : "0xa38",
             "rankedprogress" : "0xd0",
-            "projectilespeed" : "0x1E3C",
-            "projectilegravity" : "0x1FB4"
+            "projectilespeed" : "0x1d84",
+            "projectilegravity" : "0x1d88"
     }
 }
 
