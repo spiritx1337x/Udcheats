@@ -1,7 +1,7 @@
 {
     "offsets":
     {
-        "uworld": "0x169D6108",
+        "uworld": "0x1683A738",
             "relativelocation" : "0x138",
             "owningworld" : "0x90",
             "acknowledgedpawn" : "0x350",
@@ -19,7 +19,7 @@
             "velocity" : "0x180",
             "bonearray" : "0x5A8",
             "bonecache" : "0x590",
-            "persistentlevel" : "0x40",
+            "persistentlevel" : "0x38",
             "componenttoworld" : "0x1e0",
             "platform" : "0x430",
             "targetedfortpawn" : "0x1930",
