@@ -24,8 +24,8 @@
         "targetedfortpawn": "0x1980",
         "habanerocomponent": "0xA38",
         "rankedprogress": "0xD0",
-        "projectilespeed": "0x1D84",
-        "projectilegravity": "0x1D88"
+        "projectilespeed": "0x1db0",
+        "projectilegravity": "0x1dbc"
     },
     "weaponoffsets": {
         "currentweapon": "0xA80",
