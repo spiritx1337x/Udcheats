@@ -24,16 +24,16 @@
         "targetedfortpawn": "0x1980",
         "habanerocomponent": "0xA38",
         "rankedprogress": "0xD0",
-        "projectilespeed": "0x1db0",
+        "projectilespeed": "0x1ae0",
         "projectilegravity": "0x1dbc"
     },
     "weaponoffsets": {
-        "currentweapon": "0xA80",
-        "weapondata": "0x570",
-        "ammocount": "0x10BC",
+        "currentweapon": "0x5c0",
+        "weapondata": "0x5e8",
+        "ammocount": "0xfa4",
         "itemname": "0x40",
         "tier": "0x9B",
         "color": "0x50",
-        "isreloading": "0x3A9"
+        "isreloading": "0x3b9"
     }
 }
