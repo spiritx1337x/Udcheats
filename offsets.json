@@ -25,7 +25,8 @@
         "habanerocomponent": "0xA38",
         "rankedprogress": "0xD0",
         "projectilespeed": "0x1AE0",
-        "projectilegravity": "0x1DBC"
+        "projectilegravity": "0x1DBC",
+        "username": "0xAF8"
     },
     "weaponoffsets": {
         "currentweapon": "0x5C0",
