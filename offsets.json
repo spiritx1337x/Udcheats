@@ -1,6 +1,6 @@
 {
     "offsets": {
-        "uworld": "0x174A8638",
+        "uworld": "0x169641B8",
         "relativelocation": "0x138",
         "owningworld": "0xC8",
         "acknowledgedpawn": "0x350",
@@ -8,9 +8,9 @@
         "rootcomponent": "0x1B0",
         "localplayers": "0x38",
         "playercontroller": "0x30",
-        "gameinstance": "0x208",
+        "gameinstance": "0x218",
         "pawnprivate": "0x320",
-        "gamestate": "0x190",
+        "gamestate": "0x1A0",
         "playerarray": "0x2C0",
         "playerstate": "0x2C8",
         "lastsubmittime": "0x150",
